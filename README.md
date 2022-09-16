@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DESPOINANTAKOU
 - 👀 I’m interested in Front-End Web Development 
 - 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, ANGULAR
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on FrontEnd Applications
 - 📫 How to reach me despoina10020@yahoo.com
 
 <!---
