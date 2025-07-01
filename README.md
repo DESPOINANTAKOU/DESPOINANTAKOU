@@ -1,4 +1,5 @@
-👩🏻‍💻  Hi there, I'm D!
+![كسمكCatsGIF](https://github.com/user-attachments/assets/47bfb2f7-568e-452f-bd9d-c7289bebc66a)
+  Hi there, I'm D!
 
 🧠 Frontend developer in the making  
 Currently building the web with **React**, **TypeScript**, and a little bit of ✨ caffeine-powered magic ✨.
