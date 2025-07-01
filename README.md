@@ -1,7 +1,7 @@
 
 ![NikkiDuhBenGIF](https://github.com/user-attachments/assets/c61d83be-c8a7-4ee5-ad8c-0f490e3f68a7)
 
-# Hi, I'm D! 🔺
+# Hey there, visitor! I'm D 🔺 
 **Aspiring Front-End Developer** | Focused on creating clean, responsive web applications with **React** and **TypeScript**.  
 Currently building cool things with modern web tools (and lots of ☕ cups).
 
