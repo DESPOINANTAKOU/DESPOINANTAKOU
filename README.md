@@ -1,4 +1,5 @@
-![كسمكCatsGIF](https://github.com/user-attachments/assets/47bfb2f7-568e-452f-bd9d-c7289bebc66a)
+![HiBlackCatGIF](https://github.com/user-attachments/assets/dcd3748a-3a1a-4d08-88fb-4c8c4bab8046)
+
   Hi there, I'm D!
 
 🧠 Frontend developer in the making  
