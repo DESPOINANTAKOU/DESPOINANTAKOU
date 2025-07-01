@@ -1,4 +1,4 @@
- 👋 Hi there, I'm D!
+👩🏻‍💻  Hi there, I'm D!
 
 🧠 Frontend developer in the making  
 Currently building the web with **React**, **TypeScript**, and a little bit of ✨ caffeine-powered magic ✨.
