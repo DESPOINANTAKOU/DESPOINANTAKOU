@@ -3,7 +3,18 @@
 
 # Hi, I'm D! 👋  
 **Aspiring Front-End Developer** | Passionate about crafting clean, responsive web applications with **React** and **TypeScript**.  
-Currently building cool things with modern web tools (and lots of ☕).
+Currently building cool things with modern web tools (and lots of ☕ cups).
+
+<hr>
+
+## 😊 About Me  
+
+🎯 Passionate about building clean, responsive, and accessible web interfaces  
+💻 Currently working with **React**, **Next.js**, and **TypeScript** to create fun, modern web experiences  
+👩🏻‍💻 Lifelong learner ...
+🤝 Looking to collaborate on UI-focused or creative frontend projects  
+💬 Pronouns: She/Her  
+🐾 Fun fact: I code better when my Japanese Spitz child is watching 🦮
 
 <hr>
 
@@ -55,5 +66,7 @@ Creative UIs, interactive designs, and fun dev experiments
 📧 **Email:** despoina10020@yahoo.com
 
 ![KamiJapaneseSpitzGIF](https://github.com/user-attachments/assets/f9c25456-d53e-46c5-8cab-bc7330f2f77d)
+
+
 
 
