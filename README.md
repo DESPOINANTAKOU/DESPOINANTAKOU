@@ -18,7 +18,7 @@ Currently exploring **Next.js** and modern web tooling
 Clean, responsive, user-focused design  
 Creating smooth and accessible UI/UX  
 Bringing fun and bold ideas to life with code  
-Experimenting with React projects — just for fun 💫
+Experimenting with React projects 
 
 <hr>
 
