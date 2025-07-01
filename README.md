@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @DESPOINANTAKOU
-- 👀 I’m interested in Front-End Web Development 
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, Javascript, Typescript, REACT, Next.js
-- 💞️ I’m looking to collaborate on FrontEnd Applications
-- 📫 How to reach me despoina10020@yahoo.com
+ 👋 Hi there, I'm D!
 
-<!---
-DESPOINANTAKOU/DESPOINANTAKOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Frontend developer in the making  
+Currently building the web with **React**, **TypeScript**, and a little bit of ✨ caffeine-powered magic ✨.
+
+ 👀 What I'm into:
+- Front-End Web Development
+- Clean UI/UX and responsive design
+- Learning modern frameworks & best practices
+
+🌱 Currently learning:
+- `HTML`, `CSS`, `Bootstrap`
+- `JavaScript`, `TypeScript`, `React`
+- `Next.js` and modern web architecture
+
+ 🤝 Looking to collaborate on:
+- Frontend-focused projects
+- Anything React-y and fun
+
+📫 Reach me at:
+
+- despoina10020@yahoo.com
+
+
+
+
