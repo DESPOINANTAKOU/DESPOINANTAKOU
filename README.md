@@ -1,45 +1,59 @@
+
 ![NikkiDuhBenGIF](https://github.com/user-attachments/assets/c61d83be-c8a7-4ee5-ad8c-0f490e3f68a7)
 
-Hi there, I'm D! 👋  
-**Aspiring Front-End Developer** | UI Enthusiast | Coffee-Fueled Coder ☕✨
+# Hi, I'm D! 👋  
+**Aspiring Front-End Developer** | Passionate about crafting clean, responsive web applications with **React** and **TypeScript**.  
+Currently building cool things with modern web tools (and lots of ☕).
 
 <hr>
 
- 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-**HTML5**, **CSS3**, **Bootstrap**  
-**JavaScript**, **TypeScript**, **React**  
-Currently exploring **Next.js** and modern web tooling
-
-<hr>
-
-💡 Interests  
-
-Clean, responsive, user-focused design  
-Creating smooth and accessible UI/UX  
-Bringing fun and bold ideas to life with code  
-Experimenting with React projects 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 <hr>
 
- 🌱 Currently Learning  
+## 💡 Interests  
 
-`Next.js` for server-side rendering and structure  
-`TypeScript` for safer, scalable code  
-Modern front-end architecture & best practices  
-
-<hr>
-
-🤝 Let’s Collaborate  
-
-Open to working on front-end focused projects  
-React-based apps, creative experiments, and cool UI ideas  
-If it’s fun and visual — I’m in
+Creating clean, user-friendly UI/UX  
+Building responsive, accessible front-end experiences  
+Exploring React-based tools & modern frameworks  
+Experimenting with creative coding ideas 💫
 
 <hr>
 
- 📬 Reach Me  
+## 🌱 Currently Learning  
 
-**Email:** despoina10020@yahoo.com
+Next.js for full-stack React development  
+TypeScript for writing cleaner, scalable code  
+Modern front-end architecture & developer best practices  
+
+<hr>
+
+## 📂 My Portfolio/Website  
+
+🚧 [Coming soon — stay tuned!]()
+
+<hr>
+
+## 🤝 Let’s Collaborate  
+
+Frontend-focused projects  
+React + TypeScript side projects  
+Creative UIs, interactive designs, and fun dev experiments  
+
+<hr>
+
+## 📬 Reach Me  
+
+📧 **Email:** despoina10020@yahoo.com
 
 ![KamiJapaneseSpitzGIF](https://github.com/user-attachments/assets/f9c25456-d53e-46c5-8cab-bc7330f2f77d)
+
+
