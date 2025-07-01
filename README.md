@@ -1,20 +1,21 @@
 
 ![NikkiDuhBenGIF](https://github.com/user-attachments/assets/c61d83be-c8a7-4ee5-ad8c-0f490e3f68a7)
 
-# Hi, I'm D! 👋  
-**Aspiring Front-End Developer** | Passionate about crafting clean, responsive web applications with **React** and **TypeScript**.  
+# Hi, I'm D! 🔺
+**Aspiring Front-End Developer** | Focused on creating clean, responsive web applications with **React** and **TypeScript**.  
 Currently building cool things with modern web tools (and lots of ☕ cups).
 
 <hr>
 
 ## 😊 About Me  
 
-🎯 Passionate about building clean, responsive, and accessible web interfaces  
+🎯Oriented towards building clean, responsive, and accessible web interfaces  
 💻 Currently working with **React**, **Next.js**, and **TypeScript** to create fun, modern web experiences  
-👩🏻‍💻 Lifelong learner ...
-🤝 Looking to collaborate on UI-focused or creative frontend projects  
 💬 Pronouns: She/Her  
+🤝 Looking to collaborate on UI-focused or creative frontend projects  
 🐾 Fun fact: I code better when my Japanese Spitz child is watching 🦮
+
+👩🏻‍💻 Lifelong learner ... 
 
 <hr>
 
@@ -64,6 +65,8 @@ Creative UIs, interactive designs, and fun dev experiments
 ## 📬 Reach Me  
 
 📧 **Email:** despoina10020@yahoo.com
+
+🔗 LinkedIn:https://www.linkedin.com/in/despoina-ntakou-877735153/
 
 ![KamiJapaneseSpitzGIF](https://github.com/user-attachments/assets/f9c25456-d53e-46c5-8cab-bc7330f2f77d)
 
