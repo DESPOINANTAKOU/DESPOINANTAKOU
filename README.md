@@ -11,7 +11,7 @@ Currently building cool things with modern web tools (and lots of ☕ cups).
 
 🎯Oriented towards building clean, responsive, and accessible web interfaces  
 💻 Currently working with **React**, **Next.js**, and **TypeScript** to create fun, modern web experiences  
-💬 Pronouns: She/Her  
+💅🏻 Pronouns: She/Her  
 🤝 Looking to collaborate on UI-focused or creative frontend projects  
 🐾 Fun fact: I code better when my Japanese Spitz child is watching 🦮
 
@@ -52,7 +52,7 @@ Modern front-end architecture & developer best practices
 
 ## 📂 My Portfolio/Website  
 
-🚧 [Coming soon — stay tuned!]()
+🚧 Coming soon 
 
 <hr>
 
