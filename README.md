@@ -17,7 +17,7 @@ Currently building cool things with modern web tools (and lots of ☕ cups).
 
 👩🏻‍💻 Lifelong learner ... 
 
-🛡 Reminder to self: Don’t let those who wronged you win!  Grow, thrive, and keep shining!!! Let your light win....!
+🛡 Reminder to self: Don’t let those who wronged you and tried to bring you down win!  Grow, thrive, and keep evolving !!! Let your light win....!
 
 <hr>
 
