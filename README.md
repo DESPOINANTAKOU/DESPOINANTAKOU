@@ -17,6 +17,8 @@ Currently building cool things with modern web tools (and lots of ☕ cups).
 
 👩🏻‍💻 Lifelong learner ... 
 
+🛡 Reminder to self: Don’t let those who wronged you win!  Grow, thrive, and keep shining!!! Let your light win....!
+
 <hr>
 
 ## 🛠️ Tech Stack  
