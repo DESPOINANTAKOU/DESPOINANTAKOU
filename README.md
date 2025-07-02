@@ -68,7 +68,7 @@ Creative UIs, interactive designs, and fun dev experiments
 
 📧 **Email:** despoina10020@yahoo.com
 
-🔗 LinkedIn:https://www.linkedin.com/in/despoina-ntakou-877735153/
+🔗 **LinkedIn**:https://www.linkedin.com/in/despoina-ntakou-877735153/
 
 ![KamiJapaneseSpitzGIF](https://github.com/user-attachments/assets/f9c25456-d53e-46c5-8cab-bc7330f2f77d)
 
